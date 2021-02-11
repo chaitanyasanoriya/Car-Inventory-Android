@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Car Inventory</string>
+    <string name="welcome">Welcome!</string>
+    <string name="start_up_message">Sign in or Create a new Account</string>
+    <string name="go_to_sign_in">Go to Sign In</string>
+    <string name="no_account_yet">No Account yet? Sign up</string>
+    <string name="create_new_account">Create New Account</string>
+    <string name="full_name">Full Name</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="retype_password">Re-Type Password</string>
+    <string name="full_name_hint">First and Last Name</string>
+    <string name="username_hint">user123</string>
+    <string name="password_hint">Enter your Password</string>
+    <string name="sign_up">Sign Up!</string>
+    <string name="sign_in">Sign In!</string>
+    <string name="welcome_back">Welcome Back!</string>
+    <string name="okay">Okay</string>
+    <string name="credentials_error_title">Invalid Username or Password</string>
+    <string name="credentials_error_message">Username Password pair does not exists. Please type in correct Username and Password</string>
+    <string name="error">Error Occurred</string>
+    <string name="sign_up_error">There was problem in creating your account, please try again later</string>
+    <string name="username_used_title">Username already in use</string>
+    <string name="username_used_message">This username is already in use by another user, please try again with another username</string>
+    <string name="cars">Cars</string>
+    <string name="transition_string">card_to_details</string>
+    <string name="cancel">cancel</string>
+    <string name="delete">Delete</string>
+    <string name="update_error_title">Update Error</string>
+    <string name="update_error_message">There was a problem in updating the car details</string>
+    <string name="insert_error_title">Insert Error</string>
+    <string name="insert_error_message">There was a problem in adding a new car</string>
+    <string name="delete_error_title">Deletion Error</string>
+    <string name="delete_error_message">There was a problem in deleting this car</string>
+    <string name="no_car">No Car in Inventory</string>
+    <string name="no_car_price">$ ?</string>
+
+</resources>

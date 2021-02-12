@@ -144,7 +144,7 @@ The shadow color changes depending upon Light Mode and Dark Mode
 <p align="center">
   <img alt="Shadow in Light Mode" height="480px" src="screenshots/browse_white.jpg" />
   &#09;&#09;
-  <img alt="Shadow in Dark Mode" src="screenshots/browse_black.png" />
+  <img alt="Shadow in Dark Mode" height="480px" src="screenshots/browse_black.png" />
 </p>
 <br/>
 

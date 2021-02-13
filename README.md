@@ -1,5 +1,6 @@
-# Car Inventory Android
+# Car Inventory
 This is an Andorid application to maintain car inventory in application. It uses Google Room Library to store car information and images.
+<br/>iOS version: [Link](https://github.com/chaitanyasanoriya/Car-Inventory-iOS)
 <br/>
 The application has the following basic functionalities.
 - Startup Screen
